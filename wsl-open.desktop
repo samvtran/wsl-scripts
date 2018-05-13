@@ -1,0 +1,20 @@
+[Desktop Entry]
+Categories=Utility
+Comment[en_US]=
+Comment=
+Exec=/<your bin folder>/wsl-open
+GenericName[en_US]=
+GenericName=
+InitialPreference=100
+MimeType=text/plain;text/html;inode/directory;application/pdf;
+Name[en_US]=wsl-open
+Name=wsl-open
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
