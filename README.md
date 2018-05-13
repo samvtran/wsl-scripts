@@ -4,10 +4,10 @@ A collection of useful scripts I use for Windows Subsystem for Linux.
 You might find them useful too :)
 
 #### Table of Contents
-- [Installation](#Installation)
-- [Tips and Tricks](#Tips%20and%20Tricks)
-    - [File Associations](#File%20Associations)
-    - [Launching a GUI Terminal](#Launching%20a%20Terminal)
+- [Installation](#installation)
+- [Tips and Tricks](#tips-and-tricks)
+    - [File Associations](#file-associations)
+    - [Launching a GUI Terminal](#launching-a-terminal)
 
 ## Installation
 
